@@ -1,7 +1,7 @@
-# 🧮 Python-Tkinter-Calculator
+#  Python-Tkinter-Calculator
 
 
-🧠 Project Description
+ Project Description
 
 This project is a graphical calculator application developed using Python and Tkinter.
 The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
@@ -9,7 +9,7 @@ It features a clean user interface with styled buttons and a full-width clear ba
 
 This project demonstrates my understanding of GUI development, event handling, layout management, and error handling in Python.
 
-🎯 Objectives
+ Objectives
 
 To design a user-friendly calculator using Python
 
@@ -21,7 +21,7 @@ To handle runtime errors gracefully
 
 To write clean and optimized code
 
-🛠️ Technologies Used
+ Technologies Used
 
 Programming Language: Python 3
 
@@ -31,7 +31,7 @@ IDE: VS Code / PyCharm (or any Python IDE)
 
 Operating System: Windows / Linux / macOS
 
-⚙️ Features
+ Features
 
 Modern calculator UI
 
@@ -45,11 +45,11 @@ Error handling for invalid expressions
 
 Fixed window size for consistent layout
 
-🧩 Project Structure
+ Project Structure
 project_tkinter.py
 README.md
 
-▶️ How to Run the Project
+ How to Run the Project
 
 Make sure Python 3 is installed on your system
 
@@ -61,7 +61,7 @@ Run the following command:
 
 python project_tkinter.py
 
-🧪 Example Operations
+ Example Operations
 
 8 + 2 = 10
 
@@ -71,7 +71,7 @@ python project_tkinter.py
 
 Invalid input → Displays Error
 
-🧠 Concepts Implemented
+ Concepts Implemented
 
 Tkinter window creation
 
@@ -85,7 +85,7 @@ Event handling
 
 Exception handling using try-except
 
-🚀 Future Enhancements
+ Future Enhancements
 
 Keyboard input support
 
@@ -97,12 +97,12 @@ Animations and hover effects
 
 Packaging as a .exe file
 
-👨‍🎓 Author
+ Author
 
 Venkat Ashwin Kumar
 B.Tech Computer Science Student
 
-📜 Declaration
+ Declaration
 
 This project is my original work and has been developed for learning and academic purposes.
 No external code has been copied.
